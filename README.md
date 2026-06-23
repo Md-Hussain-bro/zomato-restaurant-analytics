@@ -58,23 +58,6 @@ Explores the most popular cuisines, their average ratings, and pricing patterns 
 
 ---
 
-## Project Structure
-
-```text
-zomato-restaurant-analytics/
-│
-├── Notebook/
-│   └── zomato_analysis.ipynb
-│
-├── Dashboard/
-│   ├── zomato_dashboard.pbix
-│   └── zomato_dashboard.pdf
-│
-└── README.md
-```
-
----
-
 ## Dashboard Preview
 
 ### Market Overview
